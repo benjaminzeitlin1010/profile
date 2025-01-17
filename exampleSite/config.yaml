@@ -1,6 +1,6 @@
 baseURL: "https://hugo-profile.netlify.app"
 languageCode: "en-us"
-title: "Hugo Profile"
+title: "Benjamin Zeitlin's Profile"
 theme: hugo-profile
 
 outputs:
@@ -53,8 +53,8 @@ Menus:
     #   weight: 2
 
 params:
-  title: "Hugo Profile"
-  description: Text about my cool site
+  title: "Benjamin Zeitlin's Profile"
+  description: Welcome to my professional website, showcasing my skills, work experience, and projects.
   # staticPath: ""  # The path to serve the static files from
   favicon: "/fav.png"
 
@@ -109,7 +109,7 @@ params:
     align: ms-auto # Left: ms-auto | center: mx-auto | right: me-auto | Default: ms-auto
     # brandLogo: "/logo.png" # Logo for the brand | default is the favicon variable
     # showBrandLogo: false # Show brand logo in nav bar | default is true
-    brandName: "Hugo Profile" # Brand name for the brand | default is the title variable
+    brandName: "Benjamin Zeitlin" # Brand name for the brand | default is the title variable
     disableSearch: false
     # searchPlaceholder: "Search"
     stickyNavBar:
@@ -127,14 +127,13 @@ params:
   # Hero
   hero:
     enable: true
-    intro: "Hi, my name is"
-    title: "asdkflaskdfkla."
-    subtitle: "I build things for the web"
-    content: "A passionate web app developer. I tend to make use of modern web technologies to build websites that look great, feel fantastic, and function correctly."
+    intro: "Hello! My name is"
+    title: "Benjamin Zeitlin"
+    subtitle: "\"I believe success is preparation because opportunity is going to knock on your door sooner or later\" - Omar Epps"
+    content: "I'm an extroverted individual with a passion in all things data. I specialize in Data Analysis, Machine Learning, and Mathematical Modeling."
     image: /images/hero.svg
     bottomImage:
       enable: true
-    # roundImage: true # Make hero image circular | default false
     button:
       enable: true
       name: "Resume"
@@ -144,12 +143,13 @@ params:
     socialLinks:
       fontAwesomeIcons:
         - icon: fab fa-github
-          url: https://example.com
-        - icon: fab fa-x-twitter
-          url: https://example.com
+          url: https://github.com/benjaminzeitlin1010
+        - icon: fab fa-linkedin
+          url: https://www.linkedin.com/in/benjamin-zeitlin-81856a22a/
       customIcons:
         - icon: /fav.png
-          url: "https://example.com"
+          url: "mailto:benzeitlin1010@gmail.com"
+
 
   # About
   about:
