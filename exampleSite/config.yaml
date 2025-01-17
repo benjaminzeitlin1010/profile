@@ -170,26 +170,35 @@ params:
     items:
       - title: "Full Stack Music Diary Web Application"
         content: "A web app with a Postgres database and user authentication built with Typescript, React, Flask, and more."
-        image: /images/projects/music-diary.png
+        image: /images/projects/musicdiarygif.gif
         featured:
-          name: Github
+          name: Video Demo
+          url: "https://drive.google.com/file/d/1FWr1ilmk7lJ2R4PtnLr1vGn9sY9sQqOr/view?usp=sharing"
         badges:
           - "Typescript"
           - "React"
           - "Flask"
+          - "Postgres"
+          - "SQL"
+          - "Python"
         links:
           - icon: fab fa-github
-            url: "https://github.com/benzeitlin/music-diary"
+            url: "https://github.com/MusicDiaryDB"
 
       - title: "CUDA Programming within GPU Databases"
-        content: "Optimized search algorithms for large-scale GPU projects including Conway’s Game of Life."
+        content: "Optimized search algorithms for large-scale GPU projects including Conway's Game of Life."
         image: /images/projects/cuda.png
         featured:
           name: Demo
           link: "https://yourdemoapp.com"
+          name: Full Paper
+          link: "https://www.overleaf.com/download/project/65663bd8809a35771d785395/build/194769eb233-cff8f5ccb6df00f8/output/output.pdf?compileGroup=priority&clsiserverid=clsi-pre-emp-c2d-c-f-h40v&enable_pdf_caching=true&popupDownload=true"
         badges:
           - "CUDA"
           - "GPU"
+          - "SQL"
+          - "Databases"
+          - "C Programming"
         links:
           - icon: fab fa-github
             url: "https://github.com/benzeitlin/cuda-project"
