@@ -97,7 +97,7 @@ params:
   about:
     enable: true
     title: "About Me"
-    image: "/images/me.png"
+    image: "/images/me.jpg"
     content: |
       I am currently taking a pause on my Masters in Computer Science at Virginia Tech to pursue a career. I plan to attend my masters in the coming year. I received my Bachelors of Science in Computational Modeling and Data Analytics in May 2024, where I then pursued my Masters starting in June 2024 until December 2024. I specialize in data analysis, software development, and database management. I am passionate about leveraging technology to solve complex challenges. I have experience working on projects in various fields, including biostatistics, web development, and environmental data analysis. I hope to pursue a career in helping people with my data analytic skills in a non-profit manner.
 
@@ -112,7 +112,7 @@ params:
     items:
       - job: "Data Science Undergraduate Researcher"
         company: "Virginia Tech Center for Biostatistics and Health Data Science"
-        companyUrl: "https://www.vt.edu"
+        companyUrl: "https://biostat.centers.vt.edu"
         date: "April 2023 - May 2024"
         content: |
           - Compiled statistical reports in R and Python for an introductory biostatistics research program to underrepresented communities sponsored by the NIH, iThrive, and AbbVie.
@@ -120,21 +120,21 @@ params:
 
       - job: "Computing Consultant"
         company: "Virginia Tech Academy of Data Science"
-        companyUrl: "https://www.vt.edu"
+        companyUrl: "https://data.science.vt.edu"
         date: "January 2024 - May 2024"
         content: |
           - Advised clients on data analysis, gathering, and experimental design using Bayesian methods in R and Python.
 
       - job: "Student Web Developer"
         company: "Virginia Tech Academy of Integrated Science"
-        companyUrl: "https://www.vt.edu"
+        companyUrl: "https://www.ais.science.vt.edu"
         date: "March 2023 - April 2024"
         content: |
           - Designed, deployed, and maintained a comprehensive website for managing information related to multiple majors and minors.
 
       - job: "Computer Science Undergraduate Teaching Assistant"
         company: "Virginia Tech College of Engineering"
-        companyUrl: "https://www.vt.edu"
+        companyUrl: "https://eng.vt.edu"
         date: "August 2022 - May 2023"
         content: |
           - Substitute Instructor for an Introductory Python course with 90+ students, covering programming fundamentals, OOP, and search algorithms using Python Jupyter.
@@ -146,7 +146,6 @@ params:
       - title: "Master of Engineering in Computer Science"
         school:
           name: "Virginia Tech"
-          url: "https://www.vt.edu"
         date: "August 2024 - Hiatus"
         GPA: "3.56/4.0"
         content: "Currently switching programs to focus on applied data science and computational methods."
@@ -154,7 +153,6 @@ params:
       - title: "Bachelor of Science in Computational Modeling and Data Analytics"
         school:
           name: "Virginia Tech College of Science"
-          url: "https://www.vt.edu"
         date: "August 2020 - May 2024"
         GPA: "3.55/4.0"
         minors: "Computer Science, English, Mathematics, and Statistics"
@@ -174,8 +172,7 @@ params:
         content: "A web app with a Postgres database and user authentication built with Typescript, React, Flask, and more."
         image: /images/projects/music-diary.png
         featured:
-          name: Demo
-          link: "https://yourdemoapp.com"
+          name: Github
         badges:
           - "Typescript"
           - "React"
