@@ -185,6 +185,41 @@ params:
           - icon: fab fa-github
             url: "https://github.com/MusicDiaryDB"
 
+      - title: "Observing Macroplastic Pollution Capstone Project"
+        content: "Conducted a comprehensive assessment of macroplastic pollution along the United States’ coastlines, utilizing ArcGIS for modeling purposes. Employed regression and time series analyses to discern trends and patterns."
+        image: /images/projects/plastic-pollution.png
+        featured:
+          - name: Demo
+            link: "https://yourdemoapp.com"
+          - name: Full Report
+            link: "https://yourreportlink.com"
+        badges:
+          - "ArcGIS"
+          - "Regression Analysis"
+          - "Time Series Analysis"
+          - "Environmental Impact"
+        links:
+          - icon: fab fa-github
+            url: "https://github.com/yourgithub/plastic-pollution-project"
+
+        - title: "RShiny Interactive Dashboard and Statistical Report Generation"
+        content: "Created regression plots to analyze health data using advanced R and Python techniques. Modernized an outdated SAS application and developed an R Shiny app for generating chapter reports efficiently."
+        image: /images/projects/rshiny-dashboard.png
+        featured:
+          - name: Demo
+            link: "https://yourdemoapp.com"
+          - name: Full Report
+            link: "https://yourreportlink.com"
+        badges:
+          - "R"
+          - "Shiny"
+          - "Python"
+          - "Health Data"
+          - "Statistical Analysis"
+        links:
+          - icon: fab fa-github
+            url: "https://github.com/yourgithub/rshiny-dashboard"
+
       - title: "CUDA Programming within GPU Databases"
         content: "Optimized search algorithms for large-scale GPU projects including Conway's Game of Life."
         image: /images/projects/cuda.png
