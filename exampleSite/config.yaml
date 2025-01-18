@@ -186,7 +186,7 @@ params:
             url: "https://github.com/MusicDiaryDB"
 
       - title: "Observing Macroplastic Pollution Capstone Project"
-        content: "Conducted a comprehensive assessment of macroplastic pollution along the United States’ coastlines, utilizing ArcGIS for modeling purposes. Employed regression and time series analyses to discern trends and patterns."
+        content: "Conducted a comprehensive assessment of macroplastic pollution along the United States coastlines, utilizing ArcGIS for modeling purposes. Employed regression and time series analyses to discern trends and patterns."
         image: /images/projects/plastic-pollution.png
         featured:
           - name: Demo
