@@ -202,7 +202,7 @@ params:
           - icon: fab fa-github
             url: "https://github.com/yourgithub/plastic-pollution-project"
 
-        - title: "RShiny Interactive Dashboard and Statistical Report Generation"
+      - title: "RShiny Interactive Dashboard and Statistical Report Generation"
         content: "Created regression plots to analyze health data using advanced R and Python techniques. Modernized an outdated SAS application and developed an R Shiny app for generating chapter reports efficiently."
         image: /images/projects/rshiny-dashboard.png
         featured:
