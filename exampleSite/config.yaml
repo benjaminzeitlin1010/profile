@@ -203,24 +203,7 @@ params:
         links:
           - icon: fab fa-github
             url: "https://github.com/benzeitlin/cuda-project"
-
-      - title: "Observing Macroplastic Pollution Capstone Project"
-        content: "Conducted a comprehensive assessment of macroplastic pollution along the United States' coastlines, utilizing ArcGIS for modeling purposes."
-        image: /images/projects/cuda.png
-        featured:
-          name: Demo
-          link: "https://yourdemoapp.com"
-          name: Full Paper
-          link: "https://www.overleaf.com/download/project/65663bd8809a35771d785395/build/194769eb233-cff8f5ccb6df00f8/output/output.pdf?compileGroup=priority&clsiserverid=clsi-pre-emp-c2d-c-f-h40v&enable_pdf_caching=true&popupDownload=true"
-        badges:
-          - "CUDA"
-          - "GPU"
-          - "SQL"
-          - "Databases"
-          - "C Programming"
-        links:
-          - icon: fab fa-github
-            url: "https://github.com/benzeitlin/cuda-project"
+            
   contact:
     enable: true
     content: "My inbox is always open. Whether you have a question or just want to say hi, I'll try my best to get back to you!"
