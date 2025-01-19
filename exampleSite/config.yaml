@@ -190,8 +190,6 @@ params:
         content: "Optimized search algorithms for large-scale GPU projects including Conway's Game of Life."
         image: /images/projects/cuda.png
         featured:
-          name: Demo
-          link: "https://yourdemoapp.com"
           name: Full Paper
           link: "https://drive.google.com/file/d/1YSDyHxcj_0gWQTHmLy4T0r-njAJ8mowV/view?usp=sharing"
         badges:
@@ -204,23 +202,17 @@ params:
           - icon: fab fa-github
             url: "https://github.com/benzeitlin/cuda-project"
 
-      - title: "CUDA Programming within GPU Databases"
-        content: "Optimized search algorithms for large-scale GPU projects including Conway's Game of Life."
-        image: /images/projects/cuda.png
+      - title: "Observing Macroplastic Pollution Capstone Project"
+        content: "Conducted a comprehensive assessment of macroplastic pollution along the United States' coastlines, utilizing ArcGIS for modeling purposes"
+        image: /images/projects/macroplastic.png
         featured:
-          name: Demo
-          link: "https://yourdemoapp.com"
-          name: Full Paper
-          link: "https://drive.google.com/file/d/1YSDyHxcj_0gWQTHmLy4T0r-njAJ8mowV/view?usp=sharing"
+          name: Full Report
+          link: "https://docs.google.com/document/d/1tu6tm5eOAAxaqQaO-LOJxwuZX4fOyoS2/edit?usp=sharing&ouid=118387298577732667332&rtpof=true&sd=true"
         badges:
-          - "CUDA"
-          - "GPU"
-          - "SQL"
-          - "Databases"
-          - "C Programming"
-        links:
-          - icon: fab fa-github
-            url: "https://github.com/benzeitlin/cuda-project"
+          - "ArcGIS"
+          - "Python"
+          - "Technical Writing"
+          - "Enviromental Data Science"
 
   contact:
     enable: true
