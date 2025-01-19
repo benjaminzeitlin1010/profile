@@ -104,8 +104,8 @@ params:
       Skills:
       - Python, Java, C, MATLAB, R, SQL, CUDA, Typescript, Javascript
       - Data Visualization: PowerBI, Tableau, RShiny, Pandas, Dplyr, Tidyverse
-      - Software Development: GitHub, GitLab, Linux, Visual Studio Code
-      - Database Tools: Oracle, SQL, PLSQL, TSQL, Postgres
+      - Software Development: GitHub, GitLab, Linux, Visual Studio Code, Anaconda
+      - Database Tools: Oracle Systems, SQL, PLSQL, TSQL, Postgres, Microsoft Azure
 
   experience:
     enable: true
@@ -187,7 +187,7 @@ params:
       
       - title: "Observing Macroplastic Pollution Capstone Project"
         content: "In Partnership with The Ocean Conservancy and NOAA Conducted a comprehensive assessment of macroplastic pollution along the United States' coastlines, utilizing ArcGIS for modeling purposes"
-        image: /images/projects/macroplastic.png
+        image: /images/projects/conservancy.gif
         featured:
           name: Full Report
           link: "https://docs.google.com/document/d/1tu6tm5eOAAxaqQaO-LOJxwuZX4fOyoS2/edit?usp=sharing&ouid=118387298577732667332&rtpof=true&sd=true"
@@ -199,7 +199,7 @@ params:
 
       - title: "CUDA Programming within GPU Databases"
         content: "Optimized search algorithms for large-scale GPU projects including Conway's Game of Life."
-        image: /images/projects/cuda.png
+        image: /images/projects/cudaproject.gif
         featured:
           name: Full Paper
           link: "https://drive.google.com/file/d/1YSDyHxcj_0gWQTHmLy4T0r-njAJ8mowV/view?usp=sharing"
@@ -222,6 +222,19 @@ params:
           - "RShiny"
           - "SAS"
           - "R Programming"
+
+      - title: "Jeopardy: The State of Triple Stumpers"
+        content: "Created an academic paper on the pracitce of Jeopardy! questions that no opponents could answer. Helped proved Jeopardy! isn't rigged against existing champions. Statistical Report."
+        image: /images/projects/jeopardy.png
+        featured:
+          name: Full Report
+          link: "https://drive.google.com/file/d/1v2qEmYNT82xsuvl60Zinr_PbXdHQaVCE/view?usp=sharing"
+        badges:
+          - "R Programming"
+          - "Dplyr"
+          - "Tidyverse"
+          - "LaTex"
+        
   contact:
     enable: true
     content: "My inbox is always open. Whether you have a question or just want to say hi, I'll try my best to get back to you!"
