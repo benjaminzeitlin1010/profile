@@ -185,6 +185,17 @@ params:
           - icon: fab fa-github
             url: "https://github.com/MusicDiaryDB"
       
+      - title: "Observing Macroplastic Pollution Capstone Project"
+        content: "In Partnership with The Ocean Conservancy and NOAA Conducted a comprehensive assessment of macroplastic pollution along the United States' coastlines, utilizing ArcGIS for modeling purposes"
+        image: /images/projects/macroplastic.png
+        featured:
+          name: Full Report
+          link: "https://docs.google.com/document/d/1tu6tm5eOAAxaqQaO-LOJxwuZX4fOyoS2/edit?usp=sharing&ouid=118387298577732667332&rtpof=true&sd=true"
+        badges:
+          - "ArcGIS"
+          - "Python"
+          - "Technical Writing"
+          - "Enviromental Data Science"
 
       - title: "CUDA Programming within GPU Databases"
         content: "Optimized search algorithms for large-scale GPU projects including Conway's Game of Life."
@@ -196,24 +207,21 @@ params:
           - "CUDA"
           - "GPU"
           - "SQL"
-          - "Databases"
           - "C Programming"
         links:
           - icon: fab fa-github
             url: "https://github.com/benzeitlin/cuda-project"
 
-      - title: "Observing Macroplastic Pollution Capstone Project"
-        content: "Conducted a comprehensive assessment of macroplastic pollution along the United States' coastlines, utilizing ArcGIS for modeling purposes"
-        image: /images/projects/macroplastic.png
+      - title: "RShiny Interactive Dashboard and Statistical Report Generation"
+        content: "Worked with the American Statistical Association to help create regression plots to analyze health data using advanced R and Python techniques. Modernized an outdated SAS application and developed an R Shiny app for generating chapter reports efficiently."
+        image: /images/projects/RShinyApp.png
         featured:
-          name: Full Report
-          link: "https://docs.google.com/document/d/1tu6tm5eOAAxaqQaO-LOJxwuZX4fOyoS2/edit?usp=sharing&ouid=118387298577732667332&rtpof=true&sd=true"
+          name: American Statistical Association Website
+          link: "https://www.amstat.org"
         badges:
-          - "ArcGIS"
-          - "Python"
-          - "Technical Writing"
-          - "Enviromental Data Science"
-
+          - "RShiny"
+          - "SAS"
+          - "R Programming"
   contact:
     enable: true
     content: "My inbox is always open. Whether you have a question or just want to say hi, I'll try my best to get back to you!"
