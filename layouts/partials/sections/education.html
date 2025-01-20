@@ -47,6 +47,17 @@
                                     {{ .content | markdownify}}
                                 </div>
 
+                                {{if .minors}}
+                                <div class = "py-1">
+                                    Minored in:
+                                    <li>
+                                        <ul>
+                                            <b>{{.minors}}</b>
+                                        </ul>
+                                    </li>
+                                </div>
+                                {{end}}
+
                                 {{ if .featuredLink.enable }}
                                 <div class="py-1">
                                     <a href="{{ .featuredLink.url }}" class="btn">
