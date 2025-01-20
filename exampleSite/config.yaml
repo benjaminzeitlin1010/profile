@@ -99,7 +99,7 @@ params:
     title: "About Me"
     image: "/images/me.jpg"
     content: |
-      I am currently taking a pause on my Masters in Computer Science at Virginia Tech to pursue a career. I plan to attend my masters in the coming year. I received my Bachelors of Science in Computational Modeling and Data Analytics in May 2024, where I then pursued my Masters starting in June 2024 until December 2024. I specialize in data analysis, software development, and database management. I am passionate about leveraging technology to solve complex challenges. I have experience working on projects in various fields, including biostatistics, web development, and environmental data analysis. I hope to pursue a career in helping people with my data analytic skills in a non-profit manner.
+      I am currently taking a pause on my Masters in Computer Science at Virginia Tech to pursue a career. I plan to attend my masters in the coming year. I received my Bachelors of Science in Computational Modeling and Data Analytics in May 2024, where I then pursued my Masters starting in June 2024 until December 2024. I specialize in data analysis, software development, and database management. I am passionate about leveraging technology to solve complex challenges. I have experience working on projects in various fields, including biostatistics, web development, and environmental data analysis. I hope to pursue a career in helping people with my data analytic skills.
 
       Skills:
       - Python, Java, C, MATLAB, R, SQL, CUDA, Typescript, Javascript
@@ -234,6 +234,16 @@ params:
           - "RShiny"
           - "SAS"
           - "R Programming"
+          
+      - title: "Airbnb Interactive Data Visualization Application"
+        content: "Produced an interactive data visualization application to map out airbnbs in five major cities in the US including New York City, Los Angeles, etc."
+        image: /images/projects/airbnb.gif
+        featured:
+          name: Full Report
+          link: "https://drive.google.com/file/d/14KVgQdrURpwPl5IgsDNbi7fveeEs8gkp/view?usp=sharing"
+        badges:
+          - "Python"
+          - "Pandas"
 
       - title: "Jeopardy: The State of Triple Stumpers"
         content: "Created an academic paper on the pracitce of Jeopardy! questions that no opponents could answer. Helped proved Jeopardy! isn't rigged against existing champions. Statistical Report."
@@ -247,15 +257,7 @@ params:
           - "Tidyverse"
           - "LaTex"
 
-      - title: "Airbnb Interactive Data Visualization Application"
-        content: "Produced an interactive data visualization application to map out airbnbs in five major cities in the US including New York City, Los Angeles, etc."
-        image: /images/projects/airbnb.png
-        featured:
-          name: Full Report
-          link: "https://drive.google.com/file/d/14KVgQdrURpwPl5IgsDNbi7fveeEs8gkp/view?usp=sharing"
-        badges:
-          - "Python"
-          - "Pandas"
+
         
   contact:
     enable: true
