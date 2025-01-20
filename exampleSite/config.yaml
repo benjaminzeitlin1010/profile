@@ -22,18 +22,18 @@ markup:
     renderer:
       unsafe: true
 
-Menus:
-  main:
-    - identifier: blog
-      name: Blog
-      title: Blog posts
-      url: /blogs
-      weight: 1
-    - identifier: gallery
-      name: Gallery
-      title: Blog posts
-      url: /gallery
-      weight: 2
+# Menus:
+#   main:
+#     - identifier: blog
+#       name: Blog
+#       title: Blog posts
+#       url: /blogs
+#       weight: 1
+#     - identifier: gallery
+#       name: Gallery
+#       title: Blog posts
+#       url: /gallery
+#       weight: 2
 
 params:
   title: "Benjamin Zeitlin's Profile"
@@ -156,6 +156,7 @@ params:
           name: "Virginia Tech College of Science"
         date: "August 2020 - May 2024"
         GPA: "3.55/4.0"
+        content: "As a Computational Modeling and Data Science Major, I was constantly working with large data modeling, simulation, and optimization, drawing on the computational skills needed in today's data world. The CMDA program draws on expertise from three departments at Virginia Tech whose strengths are in quantitative science: Statistics, Mathematics, and Computer Science. By combining elements of these individual disciplines in innovative, integrated courses, with an emphasis on techniques at the forefront of applied computation, CMDA imparts a suite of quantitative skills that the workplace is demanding. In addition to focusing on these aspects of CMDA, I took it a step further by pursuing graduate level classes in statistics to complement my major. Additionally, I took extra classes to obtain my minors in CMDA's three core areas: Mathematics, Statistics, and Computer Science."
       
       - title: "Minored in English, Mathematics, Statistics, and Computer Science"
         school:
