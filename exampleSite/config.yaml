@@ -164,6 +164,11 @@ params:
         content: "Issued by Northern Virginia Community College in May 2020."
       - title: "Virginia Tech Honors"
         content: "Received for academic excellence in data analysis and software development."
+      - title: "1st place Data Analytics hosted by the university."
+        content: "Competed and won a data analytics and visualization competition 1st out of 11 teams. (Fall 2021)"
+      - title: "2nd place Data Analytics hosted by the American Statistical Association"
+        content: "Competed and won second place out of 13 teams. (Spring 2022)"
+
 
   projects:
     enable: true
