@@ -73,7 +73,7 @@ params:
     enable: true
     intro: "Hello! My name is"
     title: "Benjamin Zeitlin"
-    subtitle: "\"I believe success is preparation because opportunity is going to knock on your door sooner or later\" - Omar Epps"
+    subtitle: "I believe success is preparation"
     content: "I'm an extroverted individual with a passion in all things data. I specialize in Data Analysis, Machine Learning, and Mathematical Modeling."
     image: /images/hero.jpg
     bottomImage:
