@@ -156,11 +156,12 @@ params:
           name: "Virginia Tech College of Science"
         date: "August 2020 - May 2024"
         GPA: "3.55/4.0"
-        minors: | 
-        - Computer Science
-        - English
-        - Mathematics
-        - Statistics
+      
+      - title: "Minored in English, Mathematics, Statistics, and Computer Science"
+        school:
+          name: "Virginia Tech"
+        date: Received Spring 2024
+        content: "I believe in keeping a well rounded portfolio. I minored in English to focus on translating complicated technical skills to non technical indivduals. I received my minors in Mathematics, Statistics, and Computer Science to help strengthen my computational analytics skills."
 
   achievements:
     enable: true
