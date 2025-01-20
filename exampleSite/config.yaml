@@ -234,6 +234,16 @@ params:
           - "Dplyr"
           - "Tidyverse"
           - "LaTex"
+
+      - title: "Airbnb Interactive Data Visualization Application"
+        content: "Produced an interactive data visualization application to map out airbnbs in five major cities in the US including New York City, Los Angeles, etc."
+        image: /images/projects/airbnb.png
+        featured:
+          name: Full Report
+          link: "https://drive.google.com/file/d/14KVgQdrURpwPl5IgsDNbi7fveeEs8gkp/view?usp=sharing"
+        badges:
+          - "Python"
+          - "Pandas"
         
   contact:
     enable: true
@@ -242,11 +252,11 @@ params:
     btnLink: "mailto:benzeitlin1010@gmail.com"
 
   footer:
-    recentPosts:
-      path: "blogs"
-      count: 3
-      title: "Recent Posts"
-      enable: true
+    # recentPosts:
+    #   path: "blogs"
+    #   count: 3
+    #   title: "Recent Posts"
+    #   enable: true
     socialNetworks:
       github: "https://github.com/benjaminzeitlin1010"
       linkedin: "https://www.linkedin.com/in/benjamin-zeitlin-81856a22a/"
