@@ -156,10 +156,11 @@ params:
           name: "Virginia Tech College of Science"
         date: "August 2020 - May 2024"
         GPA: "3.55/4.0"
-        minors: "Computer Science"
-        minors: "English"
-        minors: "Mathematics" 
-        minors: "Statistics"
+        minors: | 
+        - Computer Science
+        - English
+        - Mathematics
+        - Statistics
 
   achievements:
     enable: true
