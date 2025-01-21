@@ -115,7 +115,7 @@ params:
         companyUrl: "https://biostat.centers.vt.edu"
         date: "April 2023 - May 2024"
         content: |
-          - Compiled statistical reports in R and Python for an introductory biostatistics research program to underrepresented communities sponsored by the NIH, iThrive, and AbbVie.
+          - Compiled statistical reports in R and Python for an introductory biostatistics research program to underrepresented communities sponsored by the National Institutes of Health, iThrive, and AbbVie.
           - Produced ANOVA tables and PCA analyses for data preparation, cleaning, and visualizations of clientele data.
           - Had the honor with working to help publish a research paper clearing the production of the CUBE program which resulted in doubling the size of the program.
           - Helped PhD students create proper statistical reports for their health research including HIPAA compliant work.
@@ -152,9 +152,9 @@ params:
       - title: "Master of Engineering in Computer Science"
         school:
           name: "Virginia Tech"
-        date: "August 2024 - Hiatus"
+        date: "June 2024 - December 2024. Currently on Hiatus"
         GPA: "3.56/4.0"
-        content: "Currently switching programs to focus on applied data science and computational methods."
+        content: "I began studying in my Master's of Engineering program a month after graduating in May, where I took five courses in the field including Information Visualization, Machine Learning, Web Applications and Development, Computer Science and Ethics, and Web Programming. Currently switching programs to focus on applied data science and computational methods."
       
       - title: "Bachelor of Science in Computational Modeling and Data Analytics"
         school:
