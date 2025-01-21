@@ -117,6 +117,8 @@ params:
         content: |
           - Compiled statistical reports in R and Python for an introductory biostatistics research program to underrepresented communities sponsored by the NIH, iThrive, and AbbVie.
           - Produced ANOVA tables and PCA analyses for data preparation, cleaning, and visualizations of clientele data.
+          - Had the honor with working to help publish a research paper clearing the production of the CUBE program which resulted in doubling the size of the program.
+          - Helped PhD students create proper statistical reports for their health research including HIPAA compliant work.
 
       - job: "Computing Consultant"
         company: "Virginia Tech Academy of Data Science"
@@ -124,6 +126,7 @@ params:
         date: "January 2024 - May 2024"
         content: |
           - Advised clients on data analysis, gathering, and experimental design using Bayesian methods in R and Python.
+          - Tutored students in computational modeling and data anlaytics after university hours. 
 
       - job: "Web Developer"
         company: "Virginia Tech Academy of Integrated Science"
@@ -131,6 +134,8 @@ params:
         date: "March 2023 - April 2024"
         content: |
           - Designed, deployed, and maintained a comprehensive website for managing information related to multiple majors and minors.
+          - Used Ensemble (a proprietary software that uses CSS and HTML) to produce Virginia Tech related webpages.
+          - Worked with professors to produce their news reports on their respective webpages.
 
       - job: "Computer Science Teaching Assistant"
         company: "Virginia Tech College of Engineering"
@@ -202,7 +207,7 @@ params:
         image: /images/projects/conservancy.gif
         featured:
           name: Full Report
-          link: "https://docs.google.com/document/d/1tu6tm5eOAAxaqQaO-LOJxwuZX4fOyoS2/edit?usp=sharing&ouid=118387298577732667332&rtpof=true&sd=true"
+          link: "https://drive.google.com/file/d/1n8F8hf16Tb5Rvm-B7jw8QShlMT8FjMA-/view?usp=sharing"
         badges:
           - "ArcGIS"
           - "Python"
@@ -234,7 +239,7 @@ params:
           - "RShiny"
           - "SAS"
           - "R Programming"
-          
+
       - title: "Airbnb Interactive Data Visualization Application"
         content: "Produced an interactive data visualization application to map out airbnbs in five major cities in the US including New York City, Los Angeles, etc."
         image: /images/projects/airbnb.gif
@@ -257,7 +262,19 @@ params:
           - "Tidyverse"
           - "LaTex"
 
-
+  certifications:
+    enable: true
+    title: "Certifications"
+    items:
+      - certificationName: "Certified Data Scientist"
+        description: "This certification was awarded by XYZ Institute for completing a series of courses in Data Science including machine learning, data analysis, and statistical methods."
+        image: /images/certifications/data-scientist.jpg
+      - certificationName: "Machine Learning Specialist"
+        description: "Awarded by ABC Academy after completing advanced training in machine learning algorithms, deep learning, and neural networks."
+        image: /images/certifications/machine-learning.jpg
+      - certificationName: "Python Programming Expert"
+        description: "Recognized as a Python programming expert by DEF Certification Body after passing a rigorous examination covering data structures, algorithms, and web development."
+        image: /images/certifications/python-programming.jpg
         
   contact:
     enable: true
