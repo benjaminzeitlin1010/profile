@@ -73,7 +73,7 @@ params:
     enable: true
     intro: "Hello! My name is"
     title: "Benjamin Zeitlin"
-    subtitle: "I believe preparation and patience is key to success"
+    subtitle: "I believe preparation and patience are key to success"
     content: "I'm an extroverted individual with a passion in all things data. I specialize in Data Analysis, Machine Learning, and Mathematical Modeling."
     image: /images/hero.jpg
     bottomImage:
