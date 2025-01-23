@@ -75,7 +75,7 @@ params:
     title: "Benjamin Zeitlin"
     subtitle: "I believe preparation and patience are key to success"
     content: "I'm an extroverted individual with a passion in all things data. I specialize in Data Analysis, Machine Learning, and Mathematical Modeling."
-    image: /images/hero.jpg
+    image: /images/headshot1.jpg
     bottomImage:
       enable: true
     button:
