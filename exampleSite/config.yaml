@@ -188,6 +188,7 @@ params:
       - title: "Full Stack Music Diary Web Application"
         content: "A web app with a Postgres database and user authentication built with Typescript, React, Flask, and more."
         image: /images/projects/musicdiarygif.gif
+        videourl: "https://docs.google.com/spreadsheets/d/118NQtQV2xuLYpGdwKMO-88rFo-WVVJl24HzONXBvcu0/edit?usp=drive_link"
         featured:
           name: Video Demo
           url: "https://drive.google.com/file/d/1FWr1ilmk7lJ2R4PtnLr1vGn9sY9sQqOr/view?usp=sharing"
