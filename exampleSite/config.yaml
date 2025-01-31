@@ -74,7 +74,7 @@ params:
     intro: "Hello! My name is"
     title: "Benjamin Zeitlin"
     subtitle: ""
-    content: "I'm an extroverted individual with a passion in all things data. I specialize in Data Analysis, Machine Learning, and Mathematical Modeling."
+    content: "I am a passionate individual who specializes in Data Analytics, Software Development, Machine Learning, and Mathematical Modeling."
     image: /images/headshot1.jpg
     bottomImage:
       enable: true
