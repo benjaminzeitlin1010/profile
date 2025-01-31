@@ -108,6 +108,7 @@ params:
       - Database Tools: Oracle Systems, SQL, PLSQL, TSQL, Postgres, Microsoft Azure
 
   experience:
+    title: "Work Experience"
     enable: true
     items:
       - job: "Data Science Undergraduate Researcher"
