@@ -150,12 +150,12 @@ params:
   education:
     enable: true
     items:
-      - title: "Master of Engineering in Computer Science"
-        school:
-          name: "Virginia Tech"
-        date: "June 2024 - December 2024. Currently on Hiatus"
-        GPA: "3.56/4.0"
-        content: "I began studying in my Master's of Engineering program a month after graduating in May, where I took five courses in the field including Information Visualization, Machine Learning, Web Applications and Development, Computer Science and Ethics, and Web Programming. Currently switching programs to focus on applied data science and computational methods."
+      # - title: "Master of Engineering in Computer Science"
+      #   school:
+      #     name: "Virginia Tech"
+      #   date: "June 2024 - December 2024. Currently on Hiatus"
+      #   GPA: "3.56/4.0"
+      #   content: "I began studying in my Master's of Engineering program a month after graduating in May, where I took five courses in the field including Information Visualization, Machine Learning, Web Applications and Development, Computer Science and Ethics, and Web Programming. Currently switching programs to focus on applied data science and computational methods."
       
       - title: "Bachelor of Science in Computational Modeling and Data Analytics"
         school:
@@ -214,7 +214,7 @@ params:
           - "ArcGIS"
           - "Python"
           - "Technical Writing"
-          - "Enviromental Data Science"
+          - "Environmental Data Science"
 
       - title: "CUDA Programming within GPU Databases"
         content: "Optimized search algorithms for large-scale GPU projects including Conway's Game of Life."
@@ -266,7 +266,7 @@ params:
 
   certifications:
     enable: true
-    title: "Certifications"
+    title: "Certificates"
     items:
       - certificationName: "Basic Responsible Conduct of Research CITI Certification"
         description: "Completed a basic research conduct course to be certified to work in a research group."
