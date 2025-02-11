@@ -36,7 +36,7 @@ markup:
 #       weight: 2
 
 params:
-  title: "Benjamin Zeitlin's Profile"
+  title: "Benjamin Zeitlin's Porfolio"
   description: "Welcome to my professional website, showcasing my skills, work experience, and projects."
   favicon: "/fav.png"
 
@@ -71,7 +71,7 @@ params:
 
   hero:
     enable: true
-    intro: "Hello! My name is"
+    intro: ""
     title: "Benjamin Zeitlin"
     subtitle: ""
     content: "I am a passionate individual who specializes in Data Analytics, Software Development, Machine Learning, and Mathematical Modeling."
