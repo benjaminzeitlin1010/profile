@@ -271,8 +271,19 @@ params:
         content: ""
         image: /images/projects/musicdiarygif.gif
         videourl: "https://www.youtube.com/watch?v=Cfqx-Mt_H2s"
+        featured:
+          name: Video Demo
+          url: "https://drive.google.com/file/d/1FWr1ilmk7lJ2R4PtnLr1vGn9sY9sQqOr/view?usp=sharing"
         badges:
-          - "Go CMDA!"
+          - "Typescript"
+          - "React"
+          - "Flask"
+          - "Postgres"
+          - "SQL"
+          - "Python"
+        links:
+          - icon: fab fa-github
+            url: "https://github.com/MusicDiaryDB"
       
       - title: "Observing Macroplastic Pollution Capstone Project"
         content: "In Partnership with The Ocean Conservancy and NOAA Conducted a comprehensive assessment of macroplastic pollution along the United States' coastlines, utilizing ArcGIS for modeling purposes"
