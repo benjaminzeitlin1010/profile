@@ -36,7 +36,7 @@ markup:
 #       weight: 2
 
 params:
-  title: "Benjamin Zeitlin's Profile"
+  title: "Benjamin Zeitlin's Porfolio"
   description: "Welcome to my professional website, showcasing my skills, work experience, and projects."
   favicon: "/fav.png"
 
@@ -71,17 +71,17 @@ params:
 
   hero:
     enable: true
-    intro: "Hello! My name is"
+    intro: ""
     title: "Benjamin Zeitlin"
-    subtitle: "I believe preparation and patience is key to success"
-    content: "I'm an extroverted individual with a passion in all things data. I specialize in Data Analysis, Machine Learning, and Mathematical Modeling."
-    image: /images/hero.jpg
+    subtitle: ""
+    content: "I am a passionate individual who specializes in Data Analytics, Software Development, Machine Learning, and Mathematical Modeling."
+    image: /images/headshot1.jpg
     bottomImage:
       enable: true
     button:
       enable: true
       name: "Resume"
-      url: "https://drive.google.com/file/d/1VKTvFQ6mFA3eNdG6QVk4MENHrZ8nfPvR/view?usp=drive_link"
+      url: "https://drive.google.com/file/d/1meHTigMOrWBRGsdOb7pveP1Z1ho8fiYe/view?usp=sharing"
       download: true
       newPage: false
     socialLinks:
@@ -108,6 +108,7 @@ params:
       - Database Tools: Oracle Systems, SQL, PLSQL, TSQL, Postgres, Microsoft Azure
 
   experience:
+    title: "Work Experience"
     enable: true
     items:
       - job: "Data Science Undergraduate Researcher"
@@ -115,7 +116,7 @@ params:
         companyUrl: "https://biostat.centers.vt.edu"
         date: "April 2023 - May 2024"
         content: |
-          - Compiled statistical reports in R and Python for an introductory biostatistics research program to underrepresented communities sponsored by the NIH, iThrive, and AbbVie.
+          - Compiled statistical reports in R and Python for an introductory biostatistics research program to underrepresented communities sponsored by the National Institutes of Health, iThrive, and AbbVie.
           - Produced ANOVA tables and PCA analyses for data preparation, cleaning, and visualizations of clientele data.
           - Had the honor with working to help publish a research paper clearing the production of the CUBE program which resulted in doubling the size of the program.
           - Helped PhD students create proper statistical reports for their health research including HIPAA compliant work.
@@ -149,12 +150,12 @@ params:
   education:
     enable: true
     items:
-      - title: "Master of Engineering in Computer Science"
-        school:
-          name: "Virginia Tech"
-        date: "August 2024 - Hiatus"
-        GPA: "3.56/4.0"
-        content: "Currently switching programs to focus on applied data science and computational methods."
+      # - title: "Master of Engineering in Computer Science"
+      #   school:
+      #     name: "Virginia Tech"
+      #   date: "June 2024 - December 2024. Currently on Hiatus"
+      #   GPA: "3.56/4.0"
+      #   content: "I began studying in my Master's of Engineering program a month after graduating in May, where I took five courses in the field including Information Visualization, Machine Learning, Web Applications and Development, Computer Science and Ethics, and Web Programming. Currently switching programs to focus on applied data science and computational methods."
       
       - title: "Bachelor of Science in Computational Modeling and Data Analytics"
         school:
@@ -188,6 +189,7 @@ params:
       - title: "Full Stack Music Diary Web Application"
         content: "A web app with a Postgres database and user authentication built with Typescript, React, Flask, and more."
         image: /images/projects/musicdiarygif.gif
+        videourl: "https://docs.google.com/spreadsheets/d/118NQtQV2xuLYpGdwKMO-88rFo-WVVJl24HzONXBvcu0/edit?usp=drive_link"
         featured:
           name: Video Demo
           url: "https://drive.google.com/file/d/1FWr1ilmk7lJ2R4PtnLr1vGn9sY9sQqOr/view?usp=sharing"
@@ -212,7 +214,7 @@ params:
           - "ArcGIS"
           - "Python"
           - "Technical Writing"
-          - "Enviromental Data Science"
+          - "Environmental Data Science"
 
       - title: "CUDA Programming within GPU Databases"
         content: "Optimized search algorithms for large-scale GPU projects including Conway's Game of Life."
@@ -262,22 +264,45 @@ params:
           - "Tidyverse"
           - "LaTex"
 
+  videos:
+    enable: true
+    items:
+      - title: "The CMDA Student Experience - Benjamin Zeitlin '24"
+        content: ""
+        image: /images/projects/musicdiarygif.gif
+        videourl: "https://www.youtube.com/watch?v=Cfqx-Mt_H2s"
+        badges:
+          - "Go CMDA!"
+      
+      - title: "Observing Macroplastic Pollution Capstone Project"
+        content: "In Partnership with The Ocean Conservancy and NOAA Conducted a comprehensive assessment of macroplastic pollution along the United States' coastlines, utilizing ArcGIS for modeling purposes"
+        image: /images/projects/conservancy.gif
+        featured:
+          name: Full Report
+          link: "https://drive.google.com/file/d/1n8F8hf16Tb5Rvm-B7jw8QShlMT8FjMA-/view?usp=sharing"
+        badges:
+          - "ArcGIS"
+          - "Python"
+          - "Technical Writing"
+          - "Environmental Data Science"
+
+          
   certifications:
     enable: true
-    title: "Certifications"
+    title: "Certificates"
     items:
-      - certificationName: "Certified Data Scientist"
-        description: "This certification was awarded by XYZ Institute for completing a series of courses in Data Science including machine learning, data analysis, and statistical methods."
-        image: /images/certifications/data-scientist.jpg
-      - certificationName: "Machine Learning Specialist"
-        description: "Awarded by ABC Academy after completing advanced training in machine learning algorithms, deep learning, and neural networks."
-        image: /images/certifications/machine-learning.jpg
-      - certificationName: "Python Programming Expert"
-        description: "Recognized as a Python programming expert by DEF Certification Body after passing a rigorous examination covering data structures, algorithms, and web development."
-        image: /images/certifications/python-programming.jpg
-      - certificationName: "Information Privacy and Secruity CITI program course"
+      - certificationName: "Basic Responsible Conduct of Research CITI Certification"
+        description: "Completed a basic research conduct course to be certified to work in a research group."
+        image: /images/certifications/Basic_Conduct_Citi.png
+      - certificationName: "Biomedical Research CITI Certification"
+        description: "Completed a CITI program course in Biomedical Reserach."
+        image: /images/certifications/BioMedical_Citi.png
+      - certificationName: "Good Clinical Practice Course for the NIH funded Clinical Trials"
+        description: "Completed a CITI program course in clinical practice for National Institutes of Health"
+        image: /images/certifications/NIH_Citi.png
+      - certificationName: "Information Privacy and Secruity CITI Certification"
         description: "I received my CITI program training in "
-        image:
+        image: /images/certifications/IPS_Citi.png
       - certificationName: "Basic Tableau Training Course"
         description: "Took an additional refresher on Tableau linkedin learning course."
         image: /images/certifications/linkedintableau.jpg

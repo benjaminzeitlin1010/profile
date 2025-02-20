@@ -264,6 +264,29 @@ params:
           - "Tidyverse"
           - "LaTex"
 
+  videos:
+    enable: true
+    items:
+      - title: "The CMDA Student Experience - Benjamin Zeitlin '24"
+        content: ""
+        image: /images/projects/musicdiarygif.gif
+        videourl: "https://www.youtube.com/watch?v=Cfqx-Mt_H2s"
+        badges:
+          - "Go CMDA!"
+      
+      - title: "Observing Macroplastic Pollution Capstone Project"
+        content: "In Partnership with The Ocean Conservancy and NOAA Conducted a comprehensive assessment of macroplastic pollution along the United States' coastlines, utilizing ArcGIS for modeling purposes"
+        image: /images/projects/conservancy.gif
+        featured:
+          name: Full Report
+          link: "https://drive.google.com/file/d/1n8F8hf16Tb5Rvm-B7jw8QShlMT8FjMA-/view?usp=sharing"
+        badges:
+          - "ArcGIS"
+          - "Python"
+          - "Technical Writing"
+          - "Environmental Data Science"
+
+          
   certifications:
     enable: true
     title: "Certificates"
