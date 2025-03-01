@@ -36,7 +36,7 @@ markup:
 #       weight: 2
 
 params:
-  title: "Benjamin Zeitlin's Profile"
+  title: "Benjamin Zeitlin's Porfolio"
   description: "Welcome to my professional website, showcasing my skills, work experience, and projects."
   favicon: "/fav.png"
 
@@ -71,17 +71,17 @@ params:
 
   hero:
     enable: true
-    intro: "Hello! My name is"
+    intro: ""
     title: "Benjamin Zeitlin"
-    subtitle: "I believe preparation and patience is key to success"
-    content: "I'm an extroverted individual with a passion in all things data. I specialize in Data Analysis, Machine Learning, and Mathematical Modeling."
-    image: /images/hero.jpg
+    subtitle: ""
+    content: "I am a passionate individual who specializes in Data Analytics, Software Development, Machine Learning, and Mathematical Modeling."
+    image: /images/headshot1.jpg
     bottomImage:
       enable: true
     button:
       enable: true
       name: "Resume"
-      url: "https://drive.google.com/file/d/1VKTvFQ6mFA3eNdG6QVk4MENHrZ8nfPvR/view?usp=drive_link"
+      url: "https://drive.google.com/file/d/1meHTigMOrWBRGsdOb7pveP1Z1ho8fiYe/view?usp=sharing"
       download: true
       newPage: false
     socialLinks:
@@ -108,6 +108,7 @@ params:
       - Database Tools: Oracle Systems, SQL, PLSQL, TSQL, Postgres, Microsoft Azure
 
   experience:
+    title: "Work Experience"
     enable: true
     items:
       - job: "Data Science Undergraduate Researcher"
@@ -115,7 +116,7 @@ params:
         companyUrl: "https://biostat.centers.vt.edu"
         date: "April 2023 - May 2024"
         content: |
-          - Compiled statistical reports in R and Python for an introductory biostatistics research program to underrepresented communities sponsored by the NIH, iThrive, and AbbVie.
+          - Compiled statistical reports in R and Python for an introductory biostatistics research program to underrepresented communities sponsored by the National Institutes of Health, iThrive, and AbbVie.
           - Produced ANOVA tables and PCA analyses for data preparation, cleaning, and visualizations of clientele data.
           - Had the honor with working to help publish a research paper clearing the production of the CUBE program which resulted in doubling the size of the program.
           - Helped PhD students create proper statistical reports for their health research including HIPAA compliant work.
@@ -149,12 +150,12 @@ params:
   education:
     enable: true
     items:
-      - title: "Master of Engineering in Computer Science"
-        school:
-          name: "Virginia Tech"
-        date: "August 2024 - Hiatus"
-        GPA: "3.56/4.0"
-        content: "Currently switching programs to focus on applied data science and computational methods."
+      # - title: "Master of Engineering in Computer Science"
+      #   school:
+      #     name: "Virginia Tech"
+      #   date: "June 2024 - December 2024. Currently on Hiatus"
+      #   GPA: "3.56/4.0"
+      #   content: "I began studying in my Master's of Engineering program a month after graduating in May, where I took five courses in the field including Information Visualization, Machine Learning, Web Applications and Development, Computer Science and Ethics, and Web Programming. Currently switching programs to focus on applied data science and computational methods."
       
       - title: "Bachelor of Science in Computational Modeling and Data Analytics"
         school:
@@ -188,6 +189,7 @@ params:
       - title: "Full Stack Music Diary Web Application"
         content: "A web app with a Postgres database and user authentication built with Typescript, React, Flask, and more."
         image: /images/projects/musicdiarygif.gif
+        videourl: "https://docs.google.com/spreadsheets/d/118NQtQV2xuLYpGdwKMO-88rFo-WVVJl24HzONXBvcu0/edit?usp=drive_link"
         featured:
           name: Video Demo
           url: "https://drive.google.com/file/d/1FWr1ilmk7lJ2R4PtnLr1vGn9sY9sQqOr/view?usp=sharing"
@@ -212,7 +214,7 @@ params:
           - "ArcGIS"
           - "Python"
           - "Technical Writing"
-          - "Enviromental Data Science"
+          - "Environmental Data Science"
 
       - title: "CUDA Programming within GPU Databases"
         content: "Optimized search algorithms for large-scale GPU projects including Conway's Game of Life."
@@ -262,9 +264,42 @@ params:
           - "Tidyverse"
           - "LaTex"
 
+  videos:
+    enable: true
+    items:
+      - title: "The CMDA Student Experience - Benjamin Zeitlin '24"
+        content: ""
+        image: /images/projects/musicdiarygif.gif
+        videourl: "https://www.youtube.com/embed/Cfqx-Mt_H2s?si=be7p0mb9GYFCuSd_"
+        featured:
+        badges:
+          - "Typescript"
+          - "React"
+          - "Flask"
+          - "Postgres"
+          - "SQL"
+          - "Python"
+        links:
+          - icon: fab fa-github
+            url: "https://github.com/MusicDiaryDB"
+      
+      - title: "We Suck at Cooking Club President"
+        content: "Benjamin Zeitlin founded Virginia Tech's first cooking club and ran as president from 2022-2024."
+        image: /images/projects/conservancy.gif
+        videourl: "https://www.instagram.com/wesuckatcooking_vt/reel/C4-3pIaui1_/"
+        featured:
+          name: Instagram Reel
+          link: "https://www.instagram.com/wesuckatcooking_vt/reel/C4-3pIaui1_/"
+        badges:
+          - "Cooking"
+          - "Leadership"
+          - "TEAMWORK!!!"
+          - "LOVE YOU WS@C!!"
+
+          
   certifications:
     enable: true
-    title: "Certifications"
+    title: "Certificates"
     items:
       - certificationName: "Basic Responsible Conduct of Research CITI Certification"
         description: "Completed a basic research conduct course to be certified to work in a research group."

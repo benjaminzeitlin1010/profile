@@ -270,10 +270,8 @@ params:
       - title: "The CMDA Student Experience - Benjamin Zeitlin '24"
         content: ""
         image: /images/projects/musicdiarygif.gif
-        videourl: "https://www.youtube.com/watch?v=Cfqx-Mt_H2s"
+        videourl: "https://www.youtube.com/embed/Cfqx-Mt_H2s?si=be7p0mb9GYFCuSd_"
         featured:
-          name: Video Demo
-          url: "https://drive.google.com/file/d/1FWr1ilmk7lJ2R4PtnLr1vGn9sY9sQqOr/view?usp=sharing"
         badges:
           - "Typescript"
           - "React"
@@ -285,17 +283,18 @@ params:
           - icon: fab fa-github
             url: "https://github.com/MusicDiaryDB"
       
-      - title: "Observing Macroplastic Pollution Capstone Project"
-        content: "In Partnership with The Ocean Conservancy and NOAA Conducted a comprehensive assessment of macroplastic pollution along the United States' coastlines, utilizing ArcGIS for modeling purposes"
+      - title: "We Suck at Cooking Club President"
+        content: "Benjamin Zeitlin founded Virginia Tech's first cooking club and ran as president from 2022-2024."
         image: /images/projects/conservancy.gif
+        videourl: "https://www.instagram.com/wesuckatcooking_vt/reel/C4-3pIaui1_/"
         featured:
-          name: Full Report
-          link: "https://drive.google.com/file/d/1n8F8hf16Tb5Rvm-B7jw8QShlMT8FjMA-/view?usp=sharing"
+          name: Instagram Reel
+          link: "https://www.instagram.com/wesuckatcooking_vt/reel/C4-3pIaui1_/"
         badges:
-          - "ArcGIS"
-          - "Python"
-          - "Technical Writing"
-          - "Environmental Data Science"
+          - "Cooking"
+          - "Leadership"
+          - "TEAMWORK!!!"
+          - "LOVE YOU WS@C!!"
 
           
   certifications:
