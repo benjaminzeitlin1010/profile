@@ -268,7 +268,7 @@ params:
     enable: true
     items:
       - title: "The CMDA Student Experience - Benjamin Zeitlin '24"
-        content: ""
+        content: "I appeared for an interview with the College Of Science about my experience as a Virginia Tech Computational Modeling and Data Analytic Graduate."
         image: /images/projects/musicdiarygif.gif
         videourl: "https://www.youtube.com/embed/Cfqx-Mt_H2s?si=be7p0mb9GYFCuSd_"
         featured:
@@ -283,7 +283,7 @@ params:
           - icon: fab fa-github
             url: "https://github.com/MusicDiaryDB"
       
-      - title: "We Suck at Cooking Club President"
+      - title: "\"We Suck at Cooking\" Club - President"
         content: "Benjamin Zeitlin founded Virginia Tech's first cooking club and ran as president from 2022-2024."
         image: /images/projects/conservancy.gif
         videourl: "https://www.instagram.com/wesuckatcooking_vt/reel/C4-3pIaui1_/"
