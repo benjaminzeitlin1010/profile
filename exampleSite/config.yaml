@@ -58,8 +58,8 @@ params:
     brandName: "Benjamin Zeitlin"
     disableSearch: false
     stickyNavBar:
-      enable : true
-      showOnScrollUp : true
+      enable: true
+      showOnScrollUp: true
     enableSeparator: false
     menus:
       disableAbout: false
@@ -74,7 +74,7 @@ params:
     intro: ""
     title: "Benjamin Zeitlin"
     subtitle: ""
-    content: "I am a passionate individual who specializes in  Data Engineering, Data Modeling, Data Analytics, Software Development, Machine Learning, and Mathematical Modeling. Often referred to as ambitious, kind, hardworking, and a delight to be around."
+    content: "I am a passionate individual who specializes in Data Engineering, Data Modeling, Data Analytics, Software Development, Machine Learning, and Mathematical Modeling. Often referred to as ambitious, kind, hardworking, and a delight to be around."
     image: /images/headshot1.jpg
     bottomImage:
       enable: true
@@ -99,7 +99,7 @@ params:
     title: "About Me"
     image: "/images/me.jpg"
     content: |
-      My career goal is to produce impactful tools to help the betterment of society. I specialize in  data engineering, data analytics, software development, and database management. I enjoy leveraging technology to solve complex challenges and have experience working on projects in various fields, including health data, biostatistics, web development, and environmental data analysis. 
+      My career goal is to produce impactful tools to help the betterment of society. I specialize in data engineering, data analytics, software development, and database management. I enjoy leveraging technology to solve complex challenges and have experience working on projects in various fields, including health data, biostatistics, web development, and environmental data analysis.
 
       Skills:
       - Programming Languages: Python, SQL, Java, C, CUDA, Typescript, Javascript, R
@@ -107,29 +107,30 @@ params:
       - Software Development & Management Tools: GitHub, GitLab, Visual Studio Code, ERD Design, LaTeX
 
   experience:
-  title: "Work Experience"
-  enable: true
-  items:
-    - job: "Associate Consultant Data Engineer"
-      company: "Kollabio"
-      companyUrl: "https://kollabio.com"
-      date: "January 2026 - Present"
-      content: |
-        - Solo Contributor for Kollabio's involvement at CORMAC, contributing to the QIES to IQIES modernization project on the QMIR Data Operations team.
-        - Contributed to Medicare/Medicaid data migration from PostgreSQL to Databricks using Databricks, Airflow, PySpark, and AWS.
-        - Documented and designed changes to the Provider of Service Report System for data related to CMS health contracted facilities including CORF, LTCH, XRAY, and others.
-        - Modified the data pipeline backend for new CMS services using Python and SQL to enable smooth verification of CMS provider certification processes.
-        - Supported production releases and the transition from legacy QIES systems to IQIES by updating user-facing Databricks notebooks and resolving MAC-IRF helpdesk requests.
-        - Served as the release engineer for Data Operations and represented team leadership when leadership was unavailable.
-    - job: "Associate Consultant Data Analyst"
-      company: "Kollabio"
-      companyUrl: "https://kollabio.com"
-      date: "March 2025 - December 2025"
-      content: |
-        - Owned the manual process of the Central Data Repository data dictionary system and supported schema migration processes.
-        - Collaborated with the QMIR Data Architect to map OLTP schemas to Databricks and maintain accurate table mappings across systems.
-        - Supported the CMS report distribution process through Airflow, producing front-facing monthly reports for LTCH, HHA, IRF, and HHVBP programs.
-        - Kollabio CEO: Coming in with a data analytics background and transitioning into a data engineering role in on a complex CMS engagement is not trivial - and you handled it well. 4.7/5.0 on the 2025 Annual Review."
+    title: "Work Experience"
+    enable: true
+    items:
+      - job: "Associate Consultant Data Engineer"
+        company: "Kollabio"
+        companyUrl: "https://kollabio.com"
+        date: "January 2026 - Present"
+        content: |
+          - Solo Contributor for Kollabio's involvement at CORMAC, contributing to the QIES to IQIES modernization project on the QMIR Data Operations team.
+          - Contributed to Medicare/Medicaid data migration from PostgreSQL to Databricks using Databricks, Airflow, PySpark, and AWS.
+          - Documented and designed changes to the Provider of Service Report System for data related to CMS health contracted facilities including CORF, LTCH, XRAY, and others.
+          - Modified the data pipeline backend for new CMS services using Python and SQL to enable smooth verification of CMS provider certification processes.
+          - Supported production releases and the transition from legacy QIES systems to IQIES by updating user-facing Databricks notebooks and resolving MAC-IRF helpdesk requests.
+          - Served as the release engineer for Data Operations and represented team leadership when leadership was unavailable.
+
+      - job: "Associate Consultant Data Analyst"
+        company: "Kollabio"
+        companyUrl: "https://kollabio.com"
+        date: "March 2025 - December 2025"
+        content: |
+          - Owned the manual process of the Central Data Repository data dictionary system and supported schema migration processes.
+          - Collaborated with the QMIR Data Architect to map OLTP schemas to Databricks and maintain accurate table mappings across systems.
+          - Supported the CMS report distribution process through Airflow, producing front-facing monthly reports for LTCH, HHA, IRF, and HHVBP programs.
+          - Kollabio CEO: Coming in with a data analytics background and transitioning into a data engineering role in on a complex CMS engagement is not trivial - and you handled it well. 4.7/5.0 on the 2025 Annual Review.
 
       - job: "Data Science Undergraduate Researcher"
         company: "Virginia Tech Center for Biostatistics and Health Data Science"
@@ -147,7 +148,7 @@ params:
         date: "January 2024 - May 2024"
         content: |
           - Advised clients on data analysis, gathering, and experimental design using Bayesian methods in R and Python.
-          - Tutored students in computational modeling and data anlaytics after university hours. 
+          - Tutored students in computational modeling and data anlaytics after university hours.
 
       - job: "Web Developer"
         company: "Virginia Tech Academy of Integrated Science"
@@ -176,11 +177,11 @@ params:
         date: "August 2020 - May 2024"
         GPA: "3.55/4.0"
         content: "As a Computational Modeling and Data Science Major, I was constantly working with large data modeling, simulation, and optimization, drawing on the computational skills needed in today's data world. The CMDA program draws on expertise from three departments at Virginia Tech whose strengths are in quantitative science: Statistics, Mathematics, and Computer Science. By combining elements of these individual disciplines in innovative, integrated courses, with an emphasis on techniques at the forefront of applied computation, CMDA imparts a suite of quantitative skills that the workplace is demanding. In addition to focusing on these aspects of CMDA, I took it a step further by pursuing graduate level classes in statistics to complement my major. Additionally, I took extra classes to obtain my minors in CMDA's three core areas: Mathematics, Statistics, and Computer Science."
-      
+
       - title: "Minored in English, Mathematics, Statistics, and Computer Science"
         school:
           name: "Virginia Tech"
-        date: Received Spring 2024
+        date: "Received Spring 2024"
         content: "I believe in keeping a well rounded portfolio. I minored in English to focus on translating complicated technical skills to non technical indivduals. I received my minors in Mathematics, Statistics, and Computer Science to help strengthen my computational analytics skills."
 
   achievements:
@@ -194,7 +195,6 @@ params:
         content: "Competed and won a data analytics and visualization competition 1st out of 11 teams. (Fall 2021)"
       - title: "2nd place Data Analytics Competition hosted by the American Statistical Association"
         content: "Competed and won second place out of 13 teams. (Spring 2022)"
-
 
   projects:
     enable: true
@@ -216,7 +216,7 @@ params:
         links:
           - icon: fab fa-github
             url: "https://github.com/MusicDiaryDB"
-      
+
       - title: "Observing Macroplastic Pollution Capstone Project"
         content: "In Partnership with The Ocean Conservancy and NOAA Conducted a comprehensive assessment of macroplastic pollution along the United States' coastlines, utilizing ArcGIS for modeling purposes."
         image: /images/projects/conservancy.gif
@@ -295,7 +295,7 @@ params:
         links:
           - icon: fab fa-github
             url: "https://github.com/MusicDiaryDB"
-      
+
       - title: "\"We Suck at Cooking\" Club - President"
         content: "Benjamin Zeitlin founded Virginia Tech's first cooking club and ran as president from 2022-2024."
         image: /images/projects/conservancy.gif
@@ -306,10 +306,9 @@ params:
         badges:
           - "Cooking"
           - "Leadership"
-          - "TEAMWORK!!!" 
+          - "TEAMWORK!!!"
           - "LOVE YOU WS@C!!"
 
-          
   certifications:
     enable: true
     title: "Certificates"
@@ -332,6 +331,7 @@ params:
       - certificationName: Basic PowerBi Training Course
         description: "Took an additional refresher on PowerBi linkedin learning course."
         image: /images/certifications/linkedinpowerbi.jpg
+
   contact:
     enable: true
     content: "My email inbox is always open. Whether you have a question or just want to say hi, I'll try my best to get back to you!"
