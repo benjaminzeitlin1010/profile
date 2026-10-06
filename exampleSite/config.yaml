@@ -74,7 +74,7 @@ params:
     intro: ""
     title: "Benjamin Zeitlin"
     subtitle: ""
-    content: "I am a passionate individual who specializes in Data Analytics, Data Engineering, Software Development, Machine Learning, and Mathematical Modeling. Often referred to as ambitious, kind, hard-working, and a delight to be around."
+    content: "I am a passionate individual who specializes in  Data Engineering, Data Modeling, Data Analytics, Software Development, Machine Learning, and Mathematical Modeling. Often referred to as ambitious, kind, hardworking, and a delight to be around."
     image: /images/headshot1.jpg
     bottomImage:
       enable: true
@@ -99,38 +99,37 @@ params:
     title: "About Me"
     image: "/images/me.jpg"
     content: |
-      My career goal is to produce impactful tools to help the betterment of society. I am a passionate individual that specializes in data analysis, data engineering, software development, and database management. I am passionate about leveraging technology to solve complex challenges. I have experience working on projects in various fields, including biostatistics, web development, and environmental data analysis. 
+      My career goal is to produce impactful tools to help the betterment of society. I specialize in  data engineering, data analytics, software development, and database management. I enjoy leveraging technology to solve complex challenges and have experience working on projects in various fields, including health data, biostatistics, web development, and environmental data analysis. 
 
       Skills:
-      - Python, Java, C, MATLAB, R, SQL, CUDA, Typescript, Javascript
-      - Data Visualization: PowerBI, Tableau, RShiny, Pandas, Dplyr, Tidyverse
-      - Software Development: GitHub, GitLab, Linux, Visual Studio Code, Anaconda
-      - Database Tools: Oracle Systems, SQL, PLSQL, TSQL, Postgres, Microsoft Azure, PostgresSQL, Pyspark
+      - Programming Languages: Python, SQL, Java, C, CUDA, Typescript, Javascript, R
+      - Data Manipulation Tools: Databricks, Airflow, AWS services including EMR and S3, PySpark, Postgres, DBeaver, Oracle Systems, Microsoft Azure
+      - Software Development & Management Tools: GitHub, GitLab, Visual Studio Code, ERD Design, LaTeX
 
   experience:
-    title: "Work Experience"
-    enable: true
-    items:
-      - job: "Associate Consultant Data Engineer"
-        company: "Kollabio"
-        companyUrl: "https://kollabio.com"
-        date: "January 2026 - Present"
-        content: |
-          - Solo Contributor for Kollabio's involvement at CORMAC, contributing to the QIES to IQIES modernization project on the QMIR Data Operations team.
-          - Contributed to Medicare/Medicaid data migration from PostgreSQL to Databricks using Databricks, Airflow, PySpark, and AWS.
-          - Documented and designed changes to the Provider of Service Report System for data related to CMS health contracted facilities including CORF, LTCH, XRAY, and others.
-          - Modified the data pipeline backend for new CMS services using Python and SQL to enable smooth verification of CMS provider certification processes.
-          - Supported production releases and the transition from legacy QIES systems to IQIES by updating user-facing Databricks notebooks and resolving MAC-IRF helpdesk requests.
-          - Served as the release engineer for Data Operations and represented team leadership when leadership was unavailable.
-      - job: "Associate Consultant Data Analyst"
-        company: "Kollabio"
-        companyUrl: "https://kollabio.com"
-        date: "March 2025 - December 2025"
-        content: |
-          - Owned the manual process of the Central Data Repository data dictionary system and supported schema migration processes.
-          - Collaborated with the QMIR Data Architect to map OLTP schemas to Databricks and maintain accurate table mappings across systems.
-          - Supported the CMS report distribution process through Airflow, producing front-facing monthly reports for LTCH, HHA, IRF, and HHVBP programs.
-          - Kollabio CEO: Coming in with a data analytics background and transitioning into a data engineering role in on a complex CMS engagement is not trivial - and you handled it well. 4.7/5.0 on the 2025 Annual Review."
+  title: "Work Experience"
+  enable: true
+  items:
+    - job: "Associate Consultant Data Engineer"
+      company: "Kollabio"
+      companyUrl: "https://kollabio.com"
+      date: "January 2026 - Present"
+      content: |
+        - Solo Contributor for Kollabio's involvement at CORMAC, contributing to the QIES to IQIES modernization project on the QMIR Data Operations team.
+        - Contributed to Medicare/Medicaid data migration from PostgreSQL to Databricks using Databricks, Airflow, PySpark, and AWS.
+        - Documented and designed changes to the Provider of Service Report System for data related to CMS health contracted facilities including CORF, LTCH, XRAY, and others.
+        - Modified the data pipeline backend for new CMS services using Python and SQL to enable smooth verification of CMS provider certification processes.
+        - Supported production releases and the transition from legacy QIES systems to IQIES by updating user-facing Databricks notebooks and resolving MAC-IRF helpdesk requests.
+        - Served as the release engineer for Data Operations and represented team leadership when leadership was unavailable.
+    - job: "Associate Consultant Data Analyst"
+      company: "Kollabio"
+      companyUrl: "https://kollabio.com"
+      date: "March 2025 - December 2025"
+      content: |
+        - Owned the manual process of the Central Data Repository data dictionary system and supported schema migration processes.
+        - Collaborated with the QMIR Data Architect to map OLTP schemas to Databricks and maintain accurate table mappings across systems.
+        - Supported the CMS report distribution process through Airflow, producing front-facing monthly reports for LTCH, HHA, IRF, and HHVBP programs.
+        - Kollabio CEO: Coming in with a data analytics background and transitioning into a data engineering role in on a complex CMS engagement is not trivial - and you handled it well. 4.7/5.0 on the 2025 Annual Review."
 
       - job: "Data Science Undergraduate Researcher"
         company: "Virginia Tech Center for Biostatistics and Health Data Science"
@@ -219,7 +218,7 @@ params:
             url: "https://github.com/MusicDiaryDB"
       
       - title: "Observing Macroplastic Pollution Capstone Project"
-        content: "In Partnership with The Ocean Conservancy and NOAA Conducted a comprehensive assessment of macroplastic pollution along the United States' coastlines, utilizing ArcGIS for modeling purposes"
+        content: "In Partnership with The Ocean Conservancy and NOAA Conducted a comprehensive assessment of macroplastic pollution along the United States' coastlines, utilizing ArcGIS for modeling purposes."
         image: /images/projects/conservancy.gif
         featured:
           name: Full Report
@@ -246,7 +245,7 @@ params:
             url: "https://github.com/benzeitlin/cuda-project"
 
       - title: "RShiny Interactive Dashboard and Statistical Report Generation"
-        content: "Worked with the American Statistical Association to help create regression plots to analyze health data using advanced R and Python techniques. Modernized an outdated SAS application and developed an R Shiny app for generating chapter reports efficiently."
+        content: "Worked with the American Statistical Association to help create regression plots to analyze health data using advanced R and Python techniques. Modernized an outdated SAS application and developed an RShiny app for generating chapter reports efficiently."
         image: /images/projects/RShinyApp.png
         featured:
           name: American Statistical Association Website
@@ -256,7 +255,7 @@ params:
           - "SAS"
           - "R Programming"
 
-      - title: "Airbnb Interactive Data Visualization Application"
+      - title: "AirBnB Interactive Data Visualization Application"
         content: "Produced an interactive data visualization application to map out airbnbs in five major cities in the US including New York City, Los Angeles, etc."
         image: /images/projects/airbnb.gif
         featured:
