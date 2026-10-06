@@ -74,14 +74,14 @@ params:
     intro: ""
     title: "Benjamin Zeitlin"
     subtitle: ""
-    content: "I am a passionate individual who specializes in Data Analytics, Software Development, Machine Learning, and Mathematical Modeling."
+    content: "I am a passionate individual who specializes in Data Analytics, Data Engineering, Software Development, Machine Learning, and Mathematical Modeling."
     image: /images/headshot1.jpg
     bottomImage:
       enable: true
     button:
       enable: true
       name: "Resume"
-      url: "https://drive.google.com/file/d/1meHTigMOrWBRGsdOb7pveP1Z1ho8fiYe/view?usp=sharing"
+      url: "https://drive.google.com/file/d/19dnXm3_HtzL0iTQMjBaRl41HuZ6nV9u_/view?usp=sharing"
       download: true
       newPage: false
     socialLinks:
@@ -99,13 +99,13 @@ params:
     title: "About Me"
     image: "/images/me.jpg"
     content: |
-      I am currently taking a pause on my Masters in Computer Science at Virginia Tech to pursue a career. I plan to attend my masters in the coming year. I received my Bachelors of Science in Computational Modeling and Data Analytics in May 2024, where I then pursued my Masters starting in June 2024 until December 2024. I specialize in data analysis, software development, and database management. I am passionate about leveraging technology to solve complex challenges. I have experience working on projects in various fields, including biostatistics, web development, and environmental data analysis. I hope to pursue a career in helping people with my data analytic skills.
+      My career goal is to produce impactful tools to help the betterment of society. I am a passionate individual that specializes in data analysis, data engineering, software development, and database management. I am passionate about leveraging technology to solve complex challenges. I have experience working on projects in various fields, including biostatistics, web development, and environmental data analysis. 
 
       Skills:
       - Python, Java, C, MATLAB, R, SQL, CUDA, Typescript, Javascript
       - Data Visualization: PowerBI, Tableau, RShiny, Pandas, Dplyr, Tidyverse
       - Software Development: GitHub, GitLab, Linux, Visual Studio Code, Anaconda
-      - Database Tools: Oracle Systems, SQL, PLSQL, TSQL, Postgres, Microsoft Azure
+      - Database Tools: Oracle Systems, SQL, PLSQL, TSQL, Postgres, Microsoft Azure, PostgresSQL, Pyspark
 
   experience:
     title: "Work Experience"
@@ -283,7 +283,7 @@ params:
           - icon: fab fa-github
             url: "https://github.com/MusicDiaryDB"
       
-      - title: "We Suck at Cooking Club President"
+      - title: "\"We Suck at Cooking\" Club - President"
         content: "Benjamin Zeitlin founded Virginia Tech's first cooking club and ran as president from 2022-2024."
         image: /images/projects/conservancy.gif
         videourl: "https://www.instagram.com/wesuckatcooking_vt/reel/C4-3pIaui1_/"
@@ -293,7 +293,7 @@ params:
         badges:
           - "Cooking"
           - "Leadership"
-          - "TEAMWORK!!!"
+          - "TEAMWORK!!!" 
           - "LOVE YOU WS@C!!"
 
           
