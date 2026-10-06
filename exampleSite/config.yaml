@@ -81,7 +81,7 @@ params:
     button:
       enable: true
       name: "Resume"
-      url: "https://drive.google.com/file/d/19dnXm3_HtzL0iTQMjBaRl41HuZ6nV9u_/view?usp=sharing"
+      url: "https://drive.google.com/file/d/1PgZIDeunvN6GWIGtrdu_THGd4QFMmoLa/view?usp=sharing"
       download: true
       newPage: false
     socialLinks:
