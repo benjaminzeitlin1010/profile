@@ -107,30 +107,30 @@ params:
       - Software Development: GitHub, GitLab, Linux, Visual Studio Code, Anaconda
       - Database Tools: Oracle Systems, SQL, PLSQL, TSQL, Postgres, Microsoft Azure, PostgresSQL, Pyspark
 
-experience:
-  title: "Work Experience"
-  enable: true
-  items:
-    - job: "Associate Consultant Data Engineer"
-      company: "Kollabio"
-      companyUrl: "https://kollabio.com"
-      date: "January 2026 - Present"
-      content: |
-        - Solo Contributor for Kollabio's involvement at CORMAC, contributing to the QIES to IQIES modernization project on the QMIR Data Operations team.
-        - Contributed to Medicare/Medicaid data migration from PostgreSQL to Databricks using Databricks, Airflow, PySpark, and AWS.
-        - Documented and designed changes to the Provider of Service Report System for data related to CMS health contracted facilities including CORF, LTCH, XRAY, and others.
-        - Modified the data pipeline backend for new CMS services using Python and SQL to enable smooth verification of CMS provider certification processes.
-        - Supported production releases and the transition from legacy QIES systems to IQIES by updating user-facing Databricks notebooks and resolving MAC-IRF helpdesk requests.
-        - Served as the release engineer for Data Operations and represented team leadership when leadership was unavailable.
-    - job: "Associate Consultant Data Analyst"
-      company: "Kollabio"
-      companyUrl: "https://kollabio.com"
-      date: "March 2025 - December 2025"
-      content: |
-        - Owned the manual process of the Central Data Repository data dictionary system and supported schema migration processes.
-        - Collaborated with the QMIR Data Architect to map OLTP schemas to Databricks and maintain accurate table mappings across systems.
-        - Supported the CMS report distribution process through Airflow, producing front-facing monthly reports for LTCH, HHA, IRF, and HHVBP programs.
-        - Kollabio CEO: Coming in with a data analytics background and transitioning into a data engineering role in on a complex CMS engagement is not trivial - and you handled it well. 4.7/5.0 on the 2025 Annual Review."
+  experience:
+    title: "Work Experience"
+    enable: true
+    items:
+      - job: "Associate Consultant Data Engineer"
+        company: "Kollabio"
+        companyUrl: "https://kollabio.com"
+        date: "January 2026 - Present"
+        content: |
+          - Solo Contributor for Kollabio's involvement at CORMAC, contributing to the QIES to IQIES modernization project on the QMIR Data Operations team.
+          - Contributed to Medicare/Medicaid data migration from PostgreSQL to Databricks using Databricks, Airflow, PySpark, and AWS.
+          - Documented and designed changes to the Provider of Service Report System for data related to CMS health contracted facilities including CORF, LTCH, XRAY, and others.
+          - Modified the data pipeline backend for new CMS services using Python and SQL to enable smooth verification of CMS provider certification processes.
+          - Supported production releases and the transition from legacy QIES systems to IQIES by updating user-facing Databricks notebooks and resolving MAC-IRF helpdesk requests.
+          - Served as the release engineer for Data Operations and represented team leadership when leadership was unavailable.
+      - job: "Associate Consultant Data Analyst"
+        company: "Kollabio"
+        companyUrl: "https://kollabio.com"
+        date: "March 2025 - December 2025"
+        content: |
+          - Owned the manual process of the Central Data Repository data dictionary system and supported schema migration processes.
+          - Collaborated with the QMIR Data Architect to map OLTP schemas to Databricks and maintain accurate table mappings across systems.
+          - Supported the CMS report distribution process through Airflow, producing front-facing monthly reports for LTCH, HHA, IRF, and HHVBP programs.
+          - Kollabio CEO: Coming in with a data analytics background and transitioning into a data engineering role in on a complex CMS engagement is not trivial - and you handled it well. 4.7/5.0 on the 2025 Annual Review."
 
       - job: "Data Science Undergraduate Researcher"
         company: "Virginia Tech Center for Biostatistics and Health Data Science"
